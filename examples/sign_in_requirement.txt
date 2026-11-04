@@ -1,0 +1,6 @@
+Sign in
+
+A registered user can sign in with a username and password.
+Passwords must be at least 8 characters when an account is created.
+If the credentials are wrong, an error message is shown and the user stays on the sign-in page.
+After a successful sign in the user lands on the dashboard.
