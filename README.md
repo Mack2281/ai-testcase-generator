@@ -1,6 +1,6 @@
 # Test case generator
 
-[![Tests](https://github.com/Mack2281/ai-testcase-generator/actions/workflows/tests.yml/badge.svg)](https://github.com/Mack2281/ai-testcase-generator/actions/workflows/tests.yml)
+[![Tests](https://github.com/mayank-agrawal-sqa/ai-testcase-generator/actions/workflows/tests.yml/badge.svg)](https://github.com/mayank-agrawal-sqa/ai-testcase-generator/actions/workflows/tests.yml)
 
 A small command-line tool that turns a written requirement into structured test cases using a language model, with a person approving the key step. It is a compact, public version of the ideas behind the AI tester I built at work.
 
